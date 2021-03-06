@@ -17,11 +17,11 @@
     <a href="https://twitter.com/AjayShanker98">Twitter</a> • -->
     <a href="https://www.linkedin.com/in/ajay-shanker">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    <a href="https://www.linkedin.com/in/ajay-shanker">
+    <a href="https://www.instagram.com/ajay_shanker/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
     <a href="https://www.facebook.com/ajay.shanker.33">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Instagram" />
-    <a href="https://www.instagram.com/ajay_shanker/">
+    <a href="https://twitter.com/AjayShanker98">
         <img src="https://img.shields.io/twitter/follow/AjayShanker98?logo=twitter" alt="Twitter" />
     <a href="https://www.reddit.com/user/ajay1889">
         <img src="https://img.shields.io/reddit/user-karma/combined/ajay1889?logo=reddit" alt="Reddit" />
@@ -53,7 +53,7 @@
 
 ---
 
-Currently doing my National Service in Republic of Singapore Air Force.
+Currently doing my National Service at the Republic of Singapore Air Force.
 
 <!-- I'm self-taught on my free to occupy projects related to engineering. -->
 
@@ -111,7 +111,7 @@ Currently doing my National Service in Republic of Singapore Air Force.
 <h3>👨🏽‍💻 Me</h3>
 
 - 🔭 I’m currently working on an App...
-- 📫 How to reach me: `ajayshanker1998@gmail.com`
+- 📫 How to reach me: [`ajayshanker1998@gmail.com`](mailto:ajayshanker1998@gmail.com?subject=Ajay's Github)
 - ⚡ Fun fact: Graduated with a Diploma in Electronics with Merit and Diploma Plus in Innovation and Entrepreneurship
 
 <!--
