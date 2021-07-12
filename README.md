@@ -16,7 +16,7 @@
     <a href="https://www.instagram.com/ajay_shanker/">Instagram</a> •
     <a href="https://twitter.com/AjayShanker98">Twitter</a> • -->
     <a href="https://www.linkedin.com/in/ajay-shanker">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     <a href="https://www.instagram.com/ajay_shanker/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
     <a href="https://www.facebook.com/ajay.shanker.33">
@@ -59,7 +59,8 @@ Currently doing my National Service at the Republic of Singapore Air Force.
 
 <h3>✨ Fluent</h3>
 <div>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
@@ -68,12 +69,18 @@ Currently doing my National Service at the Republic of Singapore Air Force.
 
 <h3>🛎 Services</h3>
 <div>
+    <img alt="Macbook Pro" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" />
+    <img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2311AB00.svg?&style=flat&logo=neovim&logoColor=white" />
+    <img alt="Clion" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" />
     <img alt="Macbook Pro" src="https://img.shields.io/badge/Apple-MacBook_Pro_2015-999999?style=flat&logo=apple&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
     <img alt="Unity 3D" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
     <img alt="Autodesk" src="https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white" />
-    <img alt="Matlab" src="https://img.shields.io/badge/Autodesk-0076A8?style=flat&logo=mathworks&logoColor=white" />
+    <img alt="Gitkraken" src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white" />
+    <img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?style=flat&logo=Safari&logoColor=white" />
+
 
 </div>
 
@@ -81,13 +88,18 @@ Currently doing my National Service at the Republic of Singapore Air Force.
 <div>
     <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
     <!-- <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3498db?style=flat&logo=appveyor&logo=kubernetes&logoColor=white" /> -->
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     <img alt="Go" src="https://img.shields.io/badge/go-00add8?style=flat&logo=go&logoColor=white" />
     <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+    <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+    <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+    <img alt="Tailwind css" src="https://img.shields.io/badge/nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white" />
 
 </div>
 
@@ -109,6 +121,13 @@ Currently doing my National Service at the Republic of Singapore Air Force.
 ---
 
 <h3>👨🏽‍💻 Me</h3>
+
+<div >
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-A6A9AA?style=flat&logo=ethereum&logoColor=white" />
+    <img alt="Dogecoin" src="https://img.shields.io/badge/dogecoin-C2A633?style=flat&logo=dogecoin&logoColor=white" />
+    <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" />
+    <img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+</div>
 
 - 🔭 I’m currently working on an App...
 - 📫 How to reach me: [`ajayshanker1998@gmail.com`](mailto:ajayshanker1998@gmail.com?subject=Ajay's Github)
