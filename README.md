@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏽
 
-<h1 align="center">Hi, I'm Ajay Shanker</a></h1>
+<!-- <h1 align="center">Hi, I'm Ajay Shanker</a></h1> -->
+
+<h1 align="center">
+  Welcome to Ajay Shanker's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 <p align="center">
     <a>🌎 Backpacker</a> &nbsp;&bull;&nbsp;
@@ -53,27 +58,29 @@
 
 ---
 
-Currently doing my National Service at the Republic of Singapore Air Force.
+Currently in National University of Singapore.
 
 <!-- I'm self-taught on my free to occupy projects related to engineering. -->
 
 <h3>✨ Fluent</h3>
 <div>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 </div>
 
 <h3>🛎 Services</h3>
 <div>
-    <img alt="Macbook Pro" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
+    <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" />
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2311AB00.svg?&style=flat&logo=neovim&logoColor=white" />
     <img alt="Clion" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" />
-    <img alt="Macbook Pro" src="https://img.shields.io/badge/Apple-MacBook_Pro_2015-999999?style=flat&logo=apple&logoColor=white" />
+    <img alt="Macbook Pro" src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=flat&logo=apple&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
     <img alt="Unity 3D" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
@@ -96,10 +103,11 @@ Currently doing my National Service at the Republic of Singapore Air Force.
     <img alt="Go" src="https://img.shields.io/badge/go-00add8?style=flat&logo=go&logoColor=white" />
     <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
     <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
     <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
     <img alt="Tailwind css" src="https://img.shields.io/badge/nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white" />
+        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+
 
 </div>
 
@@ -107,17 +115,23 @@ Currently doing my National Service at the Republic of Singapore Air Force.
 <div>
   <img alt="Rasberry Pi" src="https://img.shields.io/badge/Raspberry pi-C51A4A?style=flat&logo=raspberry pi&logoColor=white" />
     <img alt="Home Assistant" src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=home assistant&logoColor=white" />
-    <img alt="stm32 microcontroller" src="https://img.shields.io/badge/STM32 microcontroller-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
+    <img alt="STM32 microcontroller" src="https://img.shields.io/badge/STM32 microcontroller-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
     <img alt="MQTT" src="https://img.shields.io/badge/MQTT-3C5280?style=flat&logo=eclipse mosquitto&logoColor=white" />
 
 </div>
 
 ---
-
+<details>
+<summary>Click for GitHub Stats😎</summary>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayshanker-geek&show_icons=true&cache_seconds=86400&theme=onedark" />
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Metrics](https://metrics.lecoq.io/AjayShanker-geek?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&activity=1&introduction=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FSingapore)
+
+</details>
 ---
 
 <h3>👨🏽‍💻 Me</h3>
@@ -129,7 +143,8 @@ Currently doing my National Service at the Republic of Singapore Air Force.
     <img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
 </div>
 
-- 🔭 I’m currently working on an App...
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=F7F7F7&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+an+App...+Hmmm...)](https://git.io/typing-svg)
+- 🌱 I’m currently learning AWS IoT
 - 📫 How to reach me: [`ajayshanker1998@gmail.com`](mailto:ajayshanker1998@gmail.com?subject=Ajay's Github)
 - ⚡ Fun fact: Graduated with a Diploma in Electronics with Merit and Diploma Plus in Innovation and Entrepreneurship
 
