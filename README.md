@@ -127,14 +127,14 @@ Currently in National University of Singapore.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayshanker-geek&show_icons=true&cache_seconds=86400&theme=onedark" />
 </div>
 
-<div align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
+
+> > [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-<div align="center">
-    ![Metrics](https://metrics.lecoq.io/AjayShanker-geek?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&activity=1&introduction=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FSingapore)
-</div>
+
+
+> > ![Metrics](https://metrics.lecoq.io/AjayShanker-geek?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&activity=1&introduction=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FSingapore)
+
 
 </details>
 
