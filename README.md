@@ -121,19 +121,27 @@ Currently in National University of Singapore.
 </div>
 
 ---
+
 <details>
 <summary>😎 Click for GitHub Stats</summary>
+
 <div align="center">
+</br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayshanker-geek&show_icons=true&cache_seconds=86400&theme=onedark" />
+    </br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true" />
+    </br>
+    <img align="center" src="https://metrics.lecoq.io/AjayShanker-geek?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&activity=1&introduction=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FSingapore" />
+    </br>
 </div>
 
 
-> > [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
 
 
 
-> > ![Metrics](https://metrics.lecoq.io/AjayShanker-geek?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&activity=1&introduction=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FSingapore)
+<!-- ![Metrics](https://metrics.lecoq.io/AjayShanker-geek?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&activity=1&introduction=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FSingapore) -->
 
 
 </details>
@@ -149,8 +157,8 @@ Currently in National University of Singapore.
     <img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
 </div>
 
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=10000&color=F7F7F7&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+an+App...+Hmmm....)](https://git.io/typing-svg)
-<!-- - 🌱 I’m currently learning AWS IoT  -->
+<!-- - [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=10000&color=F7F7F7&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+an+App...+Hmmm....)](https://git.io/typing-svg) -->
+- 🔭 I’m currently working on an App... Hmmm....
 - 📫 How to reach me: [`ajayshanker1998@gmail.com`](mailto:ajayshanker1998@gmail.com?subject=Ajay's Github)
 - ⚡ Fun fact: Graduated with a Diploma in Electronics with Merit and Diploma Plus in Innovation and Entrepreneurship
 
