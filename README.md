@@ -131,7 +131,7 @@ Currently in National University of Singapore.
     </br>
 </div>
 
-![Metrics](https://github.com/okasi/okasi/blob/master/github-metrics.svg)
+![Metrics](https://github.com/AjayShanker-geek/AjayShanker-geek/blob/main/github-metrics.svg)
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
