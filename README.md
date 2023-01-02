@@ -11,7 +11,6 @@
     <a>🌎 Backpacker</a> &nbsp;&bull;&nbsp;
     <a>💻 Aspiring Engineer</a> &nbsp;&bull;&nbsp;
     <a>🔥 Volunteer</a>
-
 </p>
 
 <p align="center">
@@ -88,7 +87,6 @@ Currently in National University of Singapore.
     <img alt="Gitkraken" src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white" />
     <img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?style=flat&logo=Safari&logoColor=white" />
 
-
 </div>
 
 <h3>🎓 Learning</h3>
@@ -108,7 +106,6 @@ Currently in National University of Singapore.
     <img alt="Tailwind css" src="https://img.shields.io/badge/nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white" />
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
 
-
 </div>
 
 <h3>👨‍🔬 Projects</h3>
@@ -117,7 +114,6 @@ Currently in National University of Singapore.
     <img alt="Home Assistant" src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=home assistant&logoColor=white" />
     <img alt="STM32 microcontroller" src="https://img.shields.io/badge/STM32 microcontroller-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
     <img alt="MQTT" src="https://img.shields.io/badge/MQTT-3C5280?style=flat&logo=eclipse mosquitto&logoColor=white" />
-
 </div>
 
 ---
@@ -126,23 +122,18 @@ Currently in National University of Singapore.
 <summary>😎 Click for GitHub Stats</summary>
 
 <div align="center">
-</br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayshanker-geek&show_icons=true&cache_seconds=86400&theme=onedark" />
+    </br>
+    <img align="center" src="https://profile-counter.glitch.me/ajayshanker-geek/count.svg" />
+    </br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayshanker-geek&show_icons=true&cache_seconds=86400&theme=onedark&count_private=true" />
     </br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true" />
     </br>
-    <img align="center" src="https://metrics.lecoq.io/AjayShanker-geek?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&activity=1&introduction=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FSingapore" />
-    </br>
 </div>
 
+![Metrics](https://github.com/okasi/okasi/blob/master/github-metrics.svg)
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AjayShanker-geek&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
-
-
-
-
-<!-- ![Metrics](https://metrics.lecoq.io/AjayShanker-geek?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&activity=1&introduction=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FSingapore) -->
-
 
 </details>
 
@@ -158,6 +149,7 @@ Currently in National University of Singapore.
 </div>
 
 <!-- - [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=10000&color=F7F7F7&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+an+App...+Hmmm....)](https://git.io/typing-svg) -->
+
 - 🔭 I’m currently working on an App... Hmmm....
 - 📫 How to reach me: [`ajayshanker1998@gmail.com`](mailto:ajayshanker1998@gmail.com?subject=Ajay's Github)
 - ⚡ Fun fact: Graduated with a Diploma in Electronics with Merit and Diploma Plus in Innovation and Entrepreneurship
