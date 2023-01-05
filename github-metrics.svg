@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emqx/emqx</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</div>
@@ -2386,7 +2386,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jan 2023, 15:16:40 (timezone Asia/Singapore) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 5 Jan 2023, 16:22:36 (timezone Asia/Singapore) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
