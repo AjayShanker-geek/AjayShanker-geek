@@ -2115,7 +2115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emuPlace/emuThreeDS</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">World's first Nintendo 3DS emulator for Apple devices based on Citra.</div>
@@ -2365,7 +2365,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2023, 03:10:23 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 18 Apr 2023, 04:14:48 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
