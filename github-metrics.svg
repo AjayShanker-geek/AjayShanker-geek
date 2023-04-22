@@ -2290,7 +2290,7 @@
                                         <span>starred 5 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">World's first Nintendo 3DS emulator for Apple devices based on Citra.</div>
+                                <div class="field description">Nintendo 3DS emulator for Apple devices based on Citra.</div>
                                 <div class="field infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2378,7 +2378,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Apr 2023, 23:13:12 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 23 Apr 2023, 00:17:18 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
