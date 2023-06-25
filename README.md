@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+    <img alt="Netlify" src="https://img.shields.io/netlify/a7213e8d-aba4-4e7f-a3bb-f895c1cd7713">
     <!-- <a href="https://ajayshanker-geek.github.io">Website</a> •
     <a href="https://github.com/AjayShanker-geek">README</a> •
     <a href="https://www.linkedin.com/in/ajay-shanker">LinkedIn</a> •
@@ -25,10 +26,10 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
     <a href="https://www.facebook.com/ajay.shanker.33">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Instagram" />
-    <a href="https://twitter.com/AjayShanker98">
+    <!-- <a href="https://twitter.com/AjayShanker98">
         <img src="https://img.shields.io/twitter/follow/AjayShanker98?logo=twitter" alt="Twitter" />
     <a href="https://www.reddit.com/user/ajay1889">
-        <img src="https://img.shields.io/reddit/user-karma/combined/ajay1889?logo=reddit" alt="Reddit" />
+        <img src="https://img.shields.io/reddit/user-karma/combined/ajay1889?logo=reddit" alt="Reddit" /> -->
     <a href="https://apps.apple.com/us/app/owadio/id1545809203">
         <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="Google Play" />
     <a href="https://play.google.com/store/apps/details?id=com.ajay.owadio">
