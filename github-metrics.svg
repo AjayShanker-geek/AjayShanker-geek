@@ -2134,7 +2134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PixlOne/logiops</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An unofficial userspace driver for HID++ Logitech devices</div>
@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hbthen3rd/dotfiles</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom settings/theming for wm, bar, term, shell, editor, browser, etc.</div>
@@ -2384,7 +2384,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2023, 01:10:44 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 27 Aug 2023, 02:15:20 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
