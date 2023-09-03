@@ -2145,7 +2145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>utilyre/barbecue.nvim</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A VS Code like winbar for Neovim</div>
@@ -2198,7 +2198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggandor/flit.nvim</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enhanced f/t motions for Leap</div>
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Sept 2023, 02:15:14 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 4 Sept 2023, 03:10:33 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
