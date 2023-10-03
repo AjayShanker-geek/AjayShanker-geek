@@ -2114,7 +2114,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>canonical/multipass</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multipass orchestrates virtual Ubuntu instances</div>
@@ -2167,7 +2167,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>niklasr22/BrightIntosh</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unlock the full brightness of the XDR display of your MacBook Pro</div>
@@ -2373,7 +2373,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Oct 2023, 16:17:59 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Oct 2023, 17:13:55 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
