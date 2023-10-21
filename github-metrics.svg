@@ -2134,7 +2134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>onnx/onnx</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open standard for machine learning interoperability</div>
@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>canonical/multipass</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multipass orchestrates virtual Ubuntu instances</div>
@@ -2396,7 +2396,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Oct 2023, 03:10:13 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Oct 2023, 04:13:22 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
