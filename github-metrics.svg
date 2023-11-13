@@ -2118,7 +2118,7 @@
                                         <span>starred 6 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">A window border system for macOS</div>
+                                <div class="field description">A lightweight window border system for macOS</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Nov 2023, 23:15:06 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Nov 2023, 00:18:36 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
