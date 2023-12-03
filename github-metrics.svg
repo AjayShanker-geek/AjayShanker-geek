@@ -2139,7 +2139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HexFiend/HexFiend</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast and clever hex editor for macOS</div>
@@ -2192,7 +2192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>romkatv/zsh-bench</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Benchmark for interactive Zsh</div>
@@ -2395,7 +2395,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2023, 11:14:20 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Dec 2023, 12:16:20 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
