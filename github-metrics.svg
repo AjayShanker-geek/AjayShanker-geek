@@ -2245,7 +2245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jgraph/drawio</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">draw.io is a JavaScript, client-side editor for general diagramming.</div>
@@ -2351,7 +2351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arplaboratory/learning-to-fly</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.</div>
@@ -2401,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2024, 10:21:43 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Feb 2024, 11:14:03 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
