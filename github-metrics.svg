@@ -2145,7 +2145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>commaai/openpilot</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.</div>
@@ -2198,7 +2198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>commaai/panda</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">code powering the comma.ai panda</div>
@@ -2251,7 +2251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marlonrichert/zsh-autocomplete</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.</div>
@@ -2304,7 +2304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zsh-users/zsh-completions</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Additional completion definitions for Zsh.</div>
@@ -2407,7 +2407,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Mar 2024, 11:14:33 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Mar 2024, 12:16:29 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
