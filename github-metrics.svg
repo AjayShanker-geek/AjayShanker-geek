@@ -2305,7 +2305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ts1/BLEUnlock</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices</div>
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Mar 2024, 09:52:53 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Mar 2024, 10:21:15 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
