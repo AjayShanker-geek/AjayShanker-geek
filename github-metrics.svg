@@ -2134,7 +2134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/santa</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A binary authorization and monitoring system for macOS</div>
@@ -2187,7 +2187,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lennolium/swiftGuard</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Anti-forensic macOS tray application designed to safeguard your system by monitoring USB ports.</div>
@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DNSCrypt/dnscrypt-proxy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.</div>
@@ -2293,7 +2293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ajrosen/Alfred</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alfred workflows</div>
@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>godbout/AlfredOnePee</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alfred `1p` without 1Password</div>
@@ -2390,7 +2390,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2024, 06:13:02 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Mar 2024, 07:14:47 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
