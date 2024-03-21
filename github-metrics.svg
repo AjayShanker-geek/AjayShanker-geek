@@ -2124,7 +2124,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zealdocs/zeal</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Offline documentation browser inspired by Dash</div>
@@ -2230,7 +2230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/filament</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2</div>
@@ -2386,7 +2386,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Mar 2024, 13:12:53 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Mar 2024, 14:17:36 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
