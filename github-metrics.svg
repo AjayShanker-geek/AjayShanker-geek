@@ -2129,7 +2129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zealdocs/zeal</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Offline documentation browser inspired by Dash</div>
@@ -2182,7 +2182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qvacua/vimr</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VimR — Neovim GUI for macOS in Swift</div>
@@ -2391,7 +2391,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Mar 2024, 10:19:31 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Mar 2024, 11:14:46 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
