@@ -2129,7 +2129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>objective-see/WhatsYourSign</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information!</div>
@@ -2182,7 +2182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rizinorg/rizin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UNIX-like reverse engineering framework and command-line toolset.</div>
@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rizinorg/cutter</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and Open Source Reverse Engineering Platform powered by rizin</div>
@@ -2288,7 +2288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NationalSecurityAgency/ghidra</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ghidra is a software reverse engineering (SRE) framework</div>
@@ -2391,7 +2391,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2024, 09:03:03 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 May 2024, 10:30:02 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
