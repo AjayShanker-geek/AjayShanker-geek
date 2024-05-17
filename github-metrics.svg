@@ -2182,7 +2182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>idiap/TactileErgodicExploration</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python package for ergodic control on point cloud using diffusion. It is supplementary material for the paper "Tactile Ergodic Control Using Diffusion and Geometric Algebra".</div>
@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>5G-ERA/docs</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The technical documentation for the 5G-ERA project</div>
@@ -2288,7 +2288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MurpheyLab/ergodic-control-sandbox</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sandbox code for "Tutorial on Ergodic Control @ ICRA 2024"</div>
@@ -2391,7 +2391,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2024, 09:04:05 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 May 2024, 10:27:05 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
