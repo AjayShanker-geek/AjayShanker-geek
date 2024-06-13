@@ -2124,7 +2124,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/TensorRT</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.</div>
@@ -2277,7 +2277,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA-ISAAC-ROS/isaac_ros_visual_slam</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visual SLAM/odometry package based on NVIDIA-accelerated cuVSLAM</div>
@@ -2380,7 +2380,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jun 2024, 01:14:08 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Jun 2024, 02:20:21 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
