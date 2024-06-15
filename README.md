@@ -41,9 +41,6 @@
     </a>
     <a href="https://github.com/AjayShanker-geek">
         <img src="https://img.shields.io/github/followers/AjayShanker-geek?logo=github" alt="Github" />
-    <a href="#">
-        <img src="https://gpvc.arturio.dev/AjayShanker-geek" alt="profile views">
-    </a>
     <a href="https://github.com/AjayShanker-geek/ajayshanker-geek.github.io">
         <img src="https://img.shields.io/github/last-commit/AjayShanker-geek/ajayshanker-geek.github.io" alt="last commit">
     </a>
