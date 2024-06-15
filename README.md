@@ -24,9 +24,9 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     <a href="https://www.instagram.com/ajay_shanker/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-    <a href="https://www.facebook.com/ajay.shanker.33">
+    <!-- <a href="https://www.facebook.com/ajay.shanker.33">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Instagram" />
-    <!-- <a href="https://twitter.com/AjayShanker98">
+    <a href="https://twitter.com/AjayShanker98">
         <img src="https://img.shields.io/twitter/follow/AjayShanker98?logo=twitter" alt="Twitter" />
     <a href="https://www.reddit.com/user/ajay1889">
         <img src="https://img.shields.io/reddit/user-karma/combined/ajay1889?logo=reddit" alt="Reddit" /> -->
