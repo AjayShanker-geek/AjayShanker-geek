@@ -2161,7 +2161,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mavlink/qgroundcontrol</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)</div>
@@ -2358,7 +2358,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jul 2024, 06:15:58 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Jul 2024, 07:17:46 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
