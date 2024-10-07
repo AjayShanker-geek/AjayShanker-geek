@@ -2146,7 +2146,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuejs/vitepress</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vite &amp; Vue powered static site generator.</div>
@@ -2199,7 +2199,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rarsm/rars</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RARS -- RISC-V Assembler and Runtime Simulator</div>
@@ -2403,7 +2403,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Oct 2024, 21:25:14 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 7 Oct 2024, 22:16:52 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
