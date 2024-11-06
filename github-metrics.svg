@@ -2231,7 +2231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AY2425S1-CS2113-T11-1/tp</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MediTask is a application designed to help nurses efficiently manage and track their daily tasks via a Command Line Interface (CLI)</div>
@@ -2381,7 +2381,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Nov 2024, 11:20:05 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Nov 2024, 12:21:31 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
