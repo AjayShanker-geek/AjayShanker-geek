@@ -2139,7 +2139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>olimorris/codecompanion.nvim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs</div>
@@ -2351,7 +2351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GreemDev/Ryujinx</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Switch emulator written in C#</div>
@@ -2401,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Nov 2024, 15:16:06 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Nov 2024, 16:21:43 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
