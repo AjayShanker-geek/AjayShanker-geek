@@ -2146,7 +2146,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>benfrain/neovim</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configuration files for Neovim</div>
@@ -2246,7 +2246,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FreeCAD/FreeCAD</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</div>
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2024, 19:15:26 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Nov 2024, 20:36:35 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
