@@ -2145,7 +2145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akinsho/toggleterm.nvim</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A neovim lua plugin to help easily manage multiple terminal windows</div>
@@ -2304,7 +2304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Aloxaf/fzf-tab</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Replace zsh's default completion selection menu with fzf!</div>
@@ -2401,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Dec 2024, 23:17:14 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Dec 2024, 00:20:44 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
