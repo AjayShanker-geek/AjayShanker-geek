@@ -2119,7 +2119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>echasnovski/mini.nvim</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</div>
@@ -2172,7 +2172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/lazy.nvim</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💤 A modern plugin manager for Neovim</div>
@@ -2375,7 +2375,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Dec 2024, 05:17:30 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Dec 2024, 06:17:52 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
