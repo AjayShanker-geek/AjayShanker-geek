@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>betterlockscreen/betterlockscreen</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍀 sweet looking lockscreen for linux system</div>
@@ -2188,7 +2188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nikitabobko/AeroSpace</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AeroSpace is an i3-like tiling window manager for macOS</div>
@@ -2222,7 +2222,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        665
+                                        666
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2241,7 +2241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>i3/i3</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiling window manager for X11</div>
@@ -2294,7 +2294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adi1090x/rofi</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A huge collection of Rofi based custom Applets, Launchers &amp; Powermenus.</div>
@@ -2397,7 +2397,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2024, 04:20:09 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Dec 2024, 05:16:51 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
