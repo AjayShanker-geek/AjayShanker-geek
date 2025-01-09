@@ -2124,7 +2124,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linkarzu/dotfiles-latest</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My most up to date dotfiles</div>
@@ -2171,7 +2171,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rafamadriz/friendly-snippets</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Set of preconfigured snippets for different languages.</div>
@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ErickKramer/nvim-ros2</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nvim-ros2 is a simple lua plugin that adds useful features to enhance your development workflow while developing ROS 2 modules.</div>
@@ -2380,7 +2380,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jan 2025, 03:13:58 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Jan 2025, 04:18:52 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
