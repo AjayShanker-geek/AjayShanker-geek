@@ -2137,7 +2137,7 @@
                                         <span>starred 8 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Native macOS chat application for all major LLM: Deepseek &amp; llama (Ollama), ChatGPT, Claude, xAI, Google Gemini, Perplexity, and all Open AI-compatible API services</div>
+                                <div class="field description">All-in-one native macOS AI chat application: Deepseek &amp; llama (Ollama), ChatGPT, Claude, xAI, Google Gemini, Perplexity, and all Open AI-compatible API services</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2390,7 +2390,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2025, 17:15:51 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Feb 2025, 18:15:51 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
