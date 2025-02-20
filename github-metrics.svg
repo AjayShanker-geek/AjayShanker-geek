@@ -2177,7 +2177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ros-navigation/navigation2</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ROS 2 Navigation Framework and System</div>
@@ -2230,7 +2230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Renset/macai</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All-in-one native macOS AI chat application: Deepseek &amp; llama (Ollama), ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, and all Open AI-compatible API services</div>
@@ -2370,7 +2370,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        142
+                                        143
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2386,7 +2386,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2025, 22:17:06 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Feb 2025, 23:19:35 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
