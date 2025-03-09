@@ -2139,7 +2139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orf/gping</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ping, but with a graph</div>
@@ -2345,7 +2345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikker/LeaderKey.app</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The *faster than your launcher* launcher</div>
@@ -2395,7 +2395,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Mar 2025, 13:14:23 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Mar 2025, 14:19:45 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
