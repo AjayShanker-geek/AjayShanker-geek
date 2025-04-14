@@ -2221,7 +2221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>whoeevee/EeveeSpotify</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tweak to get Spotify Premium for free, just like Spotilife</div>
@@ -2274,7 +2274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gorhill/uBlock</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</div>
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Apr 2025, 12:22:18 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Apr 2025, 13:19:45 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
