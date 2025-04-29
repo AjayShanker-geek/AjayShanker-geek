@@ -2114,7 +2114,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Legcord/Legcord</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.</div>
@@ -2167,7 +2167,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>refined-github/refined-github</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2223,7 +2223,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mountain-loop/yaak</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬</div>
@@ -2373,7 +2373,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2025, 20:40:25 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Apr 2025, 21:33:16 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
