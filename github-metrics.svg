@@ -2124,7 +2124,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esnet/iperf</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool</div>
@@ -2177,7 +2177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Legcord/Legcord</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.</div>
@@ -2230,7 +2230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>refined-github/refined-github</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2286,7 +2286,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mountain-loop/yaak</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬</div>
@@ -2389,7 +2389,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 May 2025, 11:16:25 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 May 2025, 12:24:47 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
