@@ -2109,7 +2109,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hardillb/rpi-gadget-image-creator</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Takes a standard Raspbian Lite image and adds USB Ethernet gadget config</div>
@@ -2365,7 +2365,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 May 2025, 04:21:13 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 May 2025, 05:17:57 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
