@@ -2114,7 +2114,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hardillb/rpi-gadget-image-creator</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Takes a standard Raspbian Lite image and adds USB Ethernet gadget config</div>
@@ -2220,7 +2220,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trimstray/multitor</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create multiple TOR instances with a load-balancing.</div>
@@ -2273,7 +2273,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WerWolv/ImHex</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</div>
@@ -2326,7 +2326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trimstray/the-book-of-secret-knowledge</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</div>
@@ -2370,7 +2370,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 May 2025, 09:28:28 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 May 2025, 11:08:19 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
