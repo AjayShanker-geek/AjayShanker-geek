@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beigeworm/BadUSB-Files-For-FlipperZero</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Collection of Over 60 Scripts - updated specifically for the BadUSB function on the FlipperZero.</div>
@@ -2289,7 +2289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trimstray/multitor</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create multiple TOR instances with a load-balancing.</div>
@@ -2342,7 +2342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WerWolv/ImHex</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</div>
@@ -2392,7 +2392,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 May 2025, 09:38:07 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 May 2025, 11:11:03 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
