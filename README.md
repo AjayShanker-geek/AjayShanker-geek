@@ -1,8 +1,9 @@
-<!-- ### Hi there 👋🏽 -->
 
-<!-- <h1 align="center">Hi, I'm Ajay Shanker</a></h1> -->
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ajay%20Shanker&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=62)
 
 <h1 align="center">
+
   Welcome to Ajay Shanker's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
@@ -60,15 +61,20 @@ Currently in National University of Singapore.
 <!-- I'm self-taught on my free to occupy projects related to engineering. -->
 
 <h3>✨ Fluent</h3>
+
 <div>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,c,vim,python,cpp,java,flutter,dart,md,latex" />
+</a>
+<!-- <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> -->
+<!-- <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> -->
+<!-- <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" /> -->
+<!-- <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> -->
+<!-- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> -->
+<!-- <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /> -->
+<!-- <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" /> -->
+<!-- <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"> -->
+
 </div>
 
 <h3>🛎 Services</h3>
@@ -77,7 +83,7 @@ Currently in National University of Singapore.
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" />
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2311AB00.svg?&style=flat&logo=neovim&logoColor=white" />
     <img alt="Clion" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" />
-    <img alt="Macbook Pro" src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=flat&logo=apple&logoColor=white" />
+    <img alt="Macbook Pro" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=flat&logo=apple&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
     <img alt="Unity 3D" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
@@ -148,9 +154,9 @@ Currently in National University of Singapore.
 
 <!-- - [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=10000&color=F7F7F7&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+an+App...+Hmmm....)](https://git.io/typing-svg) -->
 
-- 🔭 I’m currently working on an App... Hmmm....
-- 📫 How to reach me: [`ajayshanker1998@gmail.com`](mailto:ajayshanker1998@gmail.com?subject=Ajay's Github)
-- ⚡ Fun fact: Graduated with a Diploma in Electronics with Merit and Diploma Plus in Innovation and Entrepreneurship
+- 🔭 I’m currently working on my master
+- 📫 How to reach me:
+- ⚡ Fun fact:
 
 <!--
 **AjayShanker-geek/AjayShanker-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
