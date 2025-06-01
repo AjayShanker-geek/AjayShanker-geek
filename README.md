@@ -67,38 +67,11 @@ Currently in National University of Singapore.
 <div>
 <img src="https://skillicons.dev/icons?i=neovim,apple,ubuntu,github" />
 
-    <!-- <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" /> -->
-    <!-- <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" /> -->
-    <!-- <img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2311AB00.svg?&style=flat&logo=neovim&logoColor=white" /> -->
-    <!-- <img alt="Clion" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" /> -->
-    <!-- <img alt="Macbook Pro" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=flat&logo=apple&logoColor=white" /> -->
-    <!-- <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /> -->
-    <!-- <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" /> -->
-    <!-- <img alt="Unity 3D" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" /> -->
-    <!-- <img alt="Autodesk" src="https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white" /> -->
-    <!-- <img alt="Gitkraken" src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white" /> -->
-    <!-- <img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?style=flat&logo=Safari&logoColor=white" /> -->
-
 </div>
 
 <h3>🎓 Learning</h3>
 <div>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,go,lua,swift,html,css,js,tailwind,opencv" />
-
-    <!-- <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> -->
-    <!-- <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white" /> -->
-    <!-- <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> -->
-    <!-- <img alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /> -->
-    <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" /> -->
-    <!-- <!-- <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3498db?style=flat&logo=appveyor&logo=kubernetes&logoColor=white" /> --> -->
-    <!-- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> -->
-    <!-- <img alt="Go" src="https://img.shields.io/badge/go-00add8?style=flat&logo=go&logoColor=white" /> -->
-    <!-- <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" /> -->
-    <!-- <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" /> -->
-    <!-- <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" /> -->
-    <!-- <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> -->
-    <!-- <img alt="Tailwind css" src="https://img.shields.io/badge/nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white" /> -->
-    <!-- <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"> -->
 
 </div>
 
