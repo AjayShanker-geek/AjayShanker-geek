@@ -2234,7 +2234,7 @@
                                         <span>starred 28 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Opinionated Arch/Hyprland Setup</div>
+                                <div class="field description">Beautiful, Modern &amp; Opinionated Linux</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2387,7 +2387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2025, 21:31:53 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Oct 2025, 22:20:14 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
