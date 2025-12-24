@@ -2284,7 +2284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PegasusSimulator/PegasusSimulator</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more</div>
@@ -2337,7 +2337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CarlsonGYC/realflight_ws</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is real filght workspace for Learning to Coordinate experiments. This repo uses ROS2 humble with PX4-v1.16 fot the real flight test.</div>
@@ -2387,7 +2387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Dec 2025, 14:35:06 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Dec 2025, 15:24:09 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
