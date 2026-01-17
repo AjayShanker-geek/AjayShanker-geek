@@ -2134,7 +2134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rokartur/BetterAudio</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The advanced audio management tool for macOS</div>
@@ -2175,7 +2175,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theaiautomators/insights-lm-local-package</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source, fully private and local alternative to NotebookLM. Chat with your documents, generate audio summaries, and ground AI in your own sources—built with Supabase, N8N on a React frontend using Ollama for local inference</div>
@@ -2228,7 +2228,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theaiautomators/insights-lm-public</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source, self-hosted alternative to NotebookLM. Chat with your documents, generate audio summaries, and ground AI in your own sources—built with Supabase and N8N on a React frontend.</div>
@@ -2378,7 +2378,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jan 2026, 21:29:15 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Jan 2026, 22:19:34 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
