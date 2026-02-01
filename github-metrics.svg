@@ -2236,7 +2236,7 @@
                                         <span>starred 7 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ</div>
+                                <div class="field description">FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2389,7 +2389,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Feb 2026, 03:24:57 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Feb 2026, 04:27:40 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
