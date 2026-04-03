@@ -2188,7 +2188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BinghengNUS/Learning_to_Coordinate_1</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learning to Coordinate (L2C) is a general framework that meta-learns key hyperparameters for ADMM-DDP-based multiagent distributed trajectory optimization and adapts to diverse tasks and team sizes.</div>
@@ -2391,7 +2391,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2026, 10:26:14 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Apr 2026, 13:05:19 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
