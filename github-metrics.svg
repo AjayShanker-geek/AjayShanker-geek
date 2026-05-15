@@ -2129,7 +2129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zhenyu98/ti_mobile_tracker_ros2</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight ROS2 driver for the TI IWR6843 mmWave radar running Mobile Tracker firmware. It parses custom TLVs to publish point clouds and tracked object lists with RViz visualization support.</div>
@@ -2176,7 +2176,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koreader/koreader</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</div>
@@ -2385,7 +2385,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 May 2026, 18:23:39 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 May 2026, 20:53:23 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
