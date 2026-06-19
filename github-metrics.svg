@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MoradSayed/MR76_Radar</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python driver for the MR76 NanoRadar radar module. Handles low-level register communication internally and exposes ready-to-use outputs. Tested on Raspberry Pi 5 (AArch64 Linux); expected to work on other AArch64 Linux systems.</div>
@@ -2188,7 +2188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sidsoma/consumer-nlos</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for plug-and-play non-line-of-sight imaging</div>
@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flutter-ml/google_ml_kit_flutter</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flutter plugin that implements Google's standalone ML Kit</div>
@@ -2288,7 +2288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ioccc-src/winner</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Winners of the International Obfuscated C Code Contest</div>
@@ -2391,7 +2391,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jun 2026, 19:23:07 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 19 Jun 2026, 23:17:58 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
