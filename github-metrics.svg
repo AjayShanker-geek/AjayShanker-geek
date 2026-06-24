@@ -2119,7 +2119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyrus-and/gdb-dashboard</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modular visual interface for GDB in Python</div>
@@ -2225,7 +2225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MoradSayed/MR76_Radar</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python driver for the MR76 NanoRadar radar module. Handles low-level register communication internally and exposes ready-to-use outputs. Tested on Raspberry Pi 5 (AArch64 Linux); expected to work on other AArch64 Linux systems.</div>
@@ -2375,7 +2375,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jun 2026, 12:03:08 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Jun 2026, 16:21:25 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
