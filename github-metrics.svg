@@ -2139,7 +2139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unitreerobotics/unitree_rl_mjlab</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a repository for reinforcement learning implementation for Unitree robots, based on Mujoco.</div>
@@ -2192,7 +2192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mujocolab/mjlab</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research</div>
@@ -2401,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jun 2026, 16:52:10 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Jun 2026, 19:07:28 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
