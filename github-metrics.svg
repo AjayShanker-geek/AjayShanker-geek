@@ -2119,7 +2119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetsonhacks/jetson-orin-uart</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fix for the UART DMA initialization bug on Jetson Orin Nano under JetPack 6.2.2, delivered as a device tree overlay.</div>
@@ -2172,7 +2172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WCHSoftGroup/ch341ser_linux</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">USB to serial driver for USB to serial chip ch340, ch341, etc.</div>
@@ -2219,7 +2219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unitreerobotics/unitree_rl_mjlab</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a repository for reinforcement learning implementation for Unitree robots, based on Mujoco.</div>
@@ -2375,7 +2375,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jul 2026, 11:56:22 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Jul 2026, 16:15:01 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
