@@ -2134,7 +2134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetsonhacks/jetson-orin-uart</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fix for the UART DMA initialization bug on Jetson Orin Nano under JetPack 6.2.2, delivered as a device tree overlay.</div>
@@ -2390,7 +2390,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jul 2026, 17:23:32 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Jul 2026, 19:27:14 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
