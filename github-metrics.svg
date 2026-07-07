@@ -2114,7 +2114,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jiaming-wang/SeaShips</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2209,7 +2209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetsonhacks/jetson-orin-uart</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fix for the UART DMA initialization bug on Jetson Orin Nano under JetPack 6.2.2, delivered as a device tree overlay.</div>
@@ -2262,7 +2262,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WCHSoftGroup/ch341ser_linux</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">USB to serial driver for USB to serial chip ch340, ch341, etc.</div>
@@ -2359,7 +2359,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jul 2026, 15:38:22 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 7 Jul 2026, 18:56:19 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
