@@ -2109,7 +2109,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabianishere/pam_reattach</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reattach to the user's GUI session on macOS during authentication (for Touch ID support in tmux)</div>
@@ -2269,7 +2269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ctu-mrs/mrs_uav_system</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The entry point to the MRS UAV system.</div>
@@ -2322,7 +2322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ctu-mrs/gaussian_splatting_pipeline</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pipeline for 3DGS model creation for Unreal Engine</div>
@@ -2366,7 +2366,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Aug 2026, 22:27:27 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Aug 2026, 23:24:49 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
