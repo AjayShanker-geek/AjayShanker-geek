@@ -2109,7 +2109,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabianishere/pam_reattach</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reattach to the user's GUI session on macOS during authentication (for Touch ID support in tmux)</div>
@@ -2366,7 +2366,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Aug 2026, 04:26:58 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 18 Aug 2026, 05:25:48 (timezone Asia/Singapore) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
